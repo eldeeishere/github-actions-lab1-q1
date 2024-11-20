@@ -1,2 +1,2 @@
 # GitHub Actions Lab 1
-skap
+skap do rana
